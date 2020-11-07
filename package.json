@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jsmartdev/javascript-drum-kit/issues"
   },
-  "homepage": "https://github.com/jsmartdev/javascript-drum-kit#readme"
+  "homepage": "https://github.com/jsmartdev/javascript-drum-kit#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
 }
